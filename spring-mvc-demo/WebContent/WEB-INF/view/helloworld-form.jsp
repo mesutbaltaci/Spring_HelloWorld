@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="${pageContext.request.contextPath}/processForm" method="get">
-		<input type="text" name="username"/>
+	<form action="processForm2" method="get">
+		<input type="text" name="username" placeholder="Please enter your name"/>
 		<input type="submit" value="Submit"/>
 	</form>
 </body>
