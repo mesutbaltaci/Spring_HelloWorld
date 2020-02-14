@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Hello Spring</h2>
-<h2>Hey </h2>
+<h2>Spring Home Page</h2>
 </body>
 </html>
