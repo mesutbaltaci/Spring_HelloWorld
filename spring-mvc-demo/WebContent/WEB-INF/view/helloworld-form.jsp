@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="processForm2" method="get">
+	<form action="processForm" method="get">
 		<input type="text" name="username" placeholder="Please enter your name"/>
+		<input type="password" name="password" placeholder="enter your password" />
 		<input type="submit" value="Submit"/>
 	</form>
 </body>
